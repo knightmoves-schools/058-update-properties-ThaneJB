@@ -4,10 +4,11 @@ let person = {
 
 
 function celebrateBirthday(person) {
-  return person.age + 1;
+  return person.age;
 };
 
-celebrateBirthday()
+
+
 
 
 
