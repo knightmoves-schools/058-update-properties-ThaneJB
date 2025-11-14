@@ -4,7 +4,7 @@ let person = {
 
 
 const celebrateBirthday = (person) => {
-  person.age + 1;
+  person.age ++;
   return person;
 };
 
