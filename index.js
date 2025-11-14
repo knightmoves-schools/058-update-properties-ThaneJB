@@ -7,6 +7,7 @@ function celebrateBirthday(person) {
   return person.age + 1;
 };
 
+celebrateBirthday()
 
 
 
