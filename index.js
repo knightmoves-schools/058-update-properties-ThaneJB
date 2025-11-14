@@ -3,8 +3,9 @@ let person = {
 };
 
 
-const celebrateBirthday = (person) => {
-  return person.age ++;
+function celebrateBirthday(person) {
+  person.age ++;
+  return person;
 };
 
 
